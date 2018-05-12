@@ -1,0 +1,27 @@
+_repo: Thalaba-the-Destroyer_39804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Southey, Robert
+    birthdate: 1774
+    deathdate: 1843
+    gutenberg_agent_id: '488'
+    url: http://www.gutenberg.org/2009/agents/488
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Southey
+description: ''
+gutenberg_issued: '2012-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+title: Thalaba the Destroyer
+url: http://www.gutenberg.org/ebooks/39804
